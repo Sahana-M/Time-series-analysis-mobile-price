@@ -13,3 +13,5 @@ visit the website for visualization at
 
 https://sites.google.com/view/pricenuggets36/home  
 
+
+Prediction of time series with the help of ARIMA model
